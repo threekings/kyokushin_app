@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome Kyokushin Philippines | <%= @title %></title>
+  </head>
+  <body>
+    <h1>Home</h1>
+    <p>
+     This is for Home pages
+    </p>
+  </body>
+</html>
